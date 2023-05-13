@@ -1,3 +1,3 @@
-# Annual-Income-Prediction
+# Annual-Income-Classification
 
-This project focuses on classifying the graduates based high/low income.
+This project focuses on classifying the US college graduates based high/low income.
