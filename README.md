@@ -1,3 +1,3 @@
 # Annual-Income-Classification
 
-This project focuses on classifying the US college graduates based high/low income.
+ In this project, a logistic regression model was developed to predict the likelihood of high/low income categories for US college graduates. The model utilized a large dataset containing over 130,000 records from the College Score Card data. Exploratory Data Analysis (EDA) techniques were employed to gain insights into the data, including visualizing features and conducting univariate and bivariate analyses. Through StepAIC feature selection, the model's accuracy was enhanced from 93% to an improved 97%, while also reducing the number of features used in the model. This project demonstrated the effectiveness of logistic regression in predicting income categories and showcased the significance of feature selection in optimizing model performance
